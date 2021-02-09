@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring-cloud-payment/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-order/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-interfaces/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka7002/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-payment8002/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-payment8004/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-order9000/pom.xml" />
+        <option value="$PROJECT_DIR$/dpring-cloud-order-openfeign/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" default="false" project-jdk-name="1.8 (2)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

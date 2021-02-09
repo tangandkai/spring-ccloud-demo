@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dpring-cloud-order-openfeign/dpring-cloud-order-openfeign.iml" filepath="$PROJECT_DIR$/dpring-cloud-order-openfeign/dpring-cloud-order-openfeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka7002/spring-cloud-eureka7002.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka7002/spring-cloud-eureka7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-interfaces/spring-cloud-interfaces.iml" filepath="$PROJECT_DIR$/spring-cloud-interfaces/spring-cloud-interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-order/spring-cloud-order.iml" filepath="$PROJECT_DIR$/spring-cloud-order/spring-cloud-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-order9000/spring-cloud-order9000.iml" filepath="$PROJECT_DIR$/spring-cloud-order9000/spring-cloud-order9000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-payment/spring-cloud-payment.iml" filepath="$PROJECT_DIR$/spring-cloud-payment/spring-cloud-payment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-payment8002/spring-cloud-payment8002.iml" filepath="$PROJECT_DIR$/spring-cloud-payment8002/spring-cloud-payment8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-payment8004/spring-cloud-payment8004.iml" filepath="$PROJECT_DIR$/spring-cloud-payment8004/spring-cloud-payment8004.iml" />
+    </modules>
+  </component>
+</project>
