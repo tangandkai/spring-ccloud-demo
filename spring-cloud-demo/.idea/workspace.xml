@@ -18,15 +18,15 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="E:\apache-maven-3.6.3" />
+        <option name="mavenHome" value="E:/apache-maven-3.6.3" />
         <option name="userSettingsFile" value="E:\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -79,7 +79,7 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.DpringCloudOrderOpenfeignApplication">
+  <component name="RunManager" selected="Application.SpringCloudConsumerFeignHystrixApplication">
     <configuration name="DpringCloudOrderOpenfeignApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tang.orderO.DpringCloudOrderOpenfeignApplication" />
       <module name="dpring-cloud-order-openfeign" />
@@ -93,12 +93,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringCloudEureka7002Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tang.eureka7002.SpringCloudEureka7002Application" />
-      <module name="spring-cloud-eureka7002" />
+    <configuration name="SpringClioudOrderHystrixApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tang.orderH.SpringClioudOrderHystrixApplication" />
+      <module name="spring-clioud-orderhystrix" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tang.eureka7002.*" />
+          <option name="PATTERN" value="com.tang.orderH.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudConsumerFeignHystrixApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tang.consumer.SpringCloudConsumerFeignHystrixApplication" />
+      <module name="spring-cloud-consumer-feign-hystrix" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tang.consumer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,26 +145,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringCloudPaymentApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tang.payment.SpringCloudPaymentApplication" />
-      <module name="spring-cloud-payment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tang.payment.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SpringCloudConsumerFeignHystrixApplication" />
+        <item itemvalue="Application.SpringClioudOrderHystrixApplication" />
+        <item itemvalue="Application.SpringCloudEurekaApplication" />
         <item itemvalue="Application.DpringCloudOrderOpenfeignApplication" />
         <item itemvalue="Application.SpringCloudPayment8002Application" />
-        <item itemvalue="Application.SpringCloudPaymentApplication" />
-        <item itemvalue="Application.SpringCloudEureka7002Application" />
-        <item itemvalue="Application.SpringCloudEurekaApplication" />
       </list>
     </recent_temporary>
   </component>
