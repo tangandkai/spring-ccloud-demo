@@ -1,5 +1,7 @@
 package com.tang.consumer.controller;
 
+import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
+import com.netflix.hystrix.contrib.javanica.annotation.HystrixProperty;
 import com.tang.consumer.service.PaymentHystrixService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
@@ -24,10 +26,16 @@ public class OrderHystrixController {
     }
 
     @GetMapping("/consumer/payment/hystrix/timeout/{id}")
+    @HystrixCommand(fallbackMethod = "paymentTimeoutFallbackHandler",commandProperties = {
+            @HystrixProperty(name = "execution.isolation.thread.timeoutInMilliseconds",value = "2000")
+    })
     public String payment_time_out(@PathVariable("id") Integer id){
         String result = paymentHystrixService.payment_time_out(id);
         System.out.println("************result***********"+result+"\t"+"port: "+port);
         return result;
+    }
+    public String paymentTimeoutFallbackHandler(@PathVariable("id") Integer id){
+        return "我是消费者 系统繁忙，稍后再试....,id: 8105 "+"\t"+"O(_-_)O哈哈 耗时(秒): ";
     }
 
 }
