@@ -29,4 +29,11 @@ public class OrderController {
         System.out.println("************result***********"+result+"\t"+"port: "+port);
         return result;
     }
+
+    @GetMapping("/payment/hystrix/circuitBreaker/{id}")
+    public String paymentCircuitBreaker(@PathVariable("id") Integer id){
+        String result = paymentService.paymentCircuitBreaker(id);
+        System.out.println("************result***********"+result+"\t"+"port: "+port);
+        return result;
+    }
 }
