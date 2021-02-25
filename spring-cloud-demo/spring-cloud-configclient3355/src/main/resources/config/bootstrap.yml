@@ -22,3 +22,10 @@ eureka:
   instance:
     instance-id: config-client
     prefer-ip-address: true
+
+#暴漏监控端点
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
