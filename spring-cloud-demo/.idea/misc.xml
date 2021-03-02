@@ -16,10 +16,13 @@
         <option value="$PROJECT_DIR$/spring-cloud-consumer-feign-hystrix/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-gateway9527/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-payment8004/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-configcenter/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-configclient3355/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-configclient3366/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

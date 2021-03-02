@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/dpring-cloud-order-openfeign/dpring-cloud-order-openfeign.iml" filepath="$PROJECT_DIR$/dpring-cloud-order-openfeign/dpring-cloud-order-openfeign.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-clioud-orderhystrix/spring-clioud-orderhystrix.iml" filepath="$PROJECT_DIR$/spring-clioud-orderhystrix/spring-clioud-orderhystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-configcenter/spring-cloud-configcenter3344.iml" filepath="$PROJECT_DIR$/spring-cloud-configcenter/spring-cloud-configcenter3344.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-configclient3355/spring-cloud-configclient3355.iml" filepath="$PROJECT_DIR$/spring-cloud-configclient3355/spring-cloud-configclient3355.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-configclient3366/spring-cloud-configclient3366.iml" filepath="$PROJECT_DIR$/spring-cloud-configclient3366/spring-cloud-configclient3366.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-consumer-feign-hystrix/spring-cloud-consumer-feign-hystrix.iml" filepath="$PROJECT_DIR$/spring-cloud-consumer-feign-hystrix/spring-cloud-consumer-feign-hystrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka7002/spring-cloud-eureka7002.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka7002/spring-cloud-eureka7002.iml" />

@@ -8,22 +8,28 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-cloud-eureka7002" />
-        <module name="spring-cloud-interfaces" />
+        <module name="spring-cloud-configcenter3344" />
         <module name="spring-cloud-gateway9527" />
-        <module name="spring-cloud-payment" />
-        <module name="spring-cloud-payment8002" />
+        <module name="spring-cloud-configclient3355" />
+        <module name="spring-cloud-configclient3366" />
         <module name="spring-cloud-consumer-feign-hystrix" />
-        <module name="spring-cloud-payment8004" />
-        <module name="spring-clioud-orderhystrix" />
-        <module name="dpring-cloud-order-openfeign" />
         <module name="spring-cloud-eureka" />
         <module name="spring-cloud-order" />
         <module name="spring-cloud-order9000" />
+        <module name="spring-cloud-interfaces" />
+        <module name="spring-cloud-payment" />
+        <module name="spring-cloud-payment8002" />
+        <module name="spring-cloud-payment8004" />
+        <module name="spring-clioud-orderhystrix" />
+        <module name="dpring-cloud-order-openfeign" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="dpring-cloud-order-openfeign" target="1.8" />
       <module name="spring-clioud-orderhystrix" target="1.8" />
+      <module name="spring-cloud-configcenter3344" target="1.8" />
+      <module name="spring-cloud-configclient3355" target="1.8" />
+      <module name="spring-cloud-configclient3366" target="1.8" />
       <module name="spring-cloud-consumer-feign-hystrix" target="1.8" />
       <module name="spring-cloud-eureka" target="1.8" />
       <module name="spring-cloud-eureka7002" target="1.8" />
@@ -40,6 +46,9 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="dpring-cloud-order-openfeign" options="-parameters" />
       <module name="spring-clioud-orderhystrix" options="-parameters" />
+      <module name="spring-cloud-configcenter3344" options="-parameters" />
+      <module name="spring-cloud-configclient3355" options="-parameters" />
+      <module name="spring-cloud-configclient3366" options="-parameters" />
       <module name="spring-cloud-consumer-feign-hystrix" options="-parameters" />
       <module name="spring-cloud-eureka" options="-parameters" />
       <module name="spring-cloud-eureka7002" options="-parameters" />
