@@ -33,6 +33,7 @@ eureka:
     instance-id: config-server-3344
     prefer-ip-address: true
 ##rabbitmq相关配置,暴露bus刷新配置的端点     curl -X POST "http://localhost:3344/actuator/bus-refresh"
+#curl -X POST "http://localhost:3344/actuator/bus-refresh/config-client3355:3355" config-client3355:3355由application与端口组成，只通知某个客户端，实现定点通知
 management:
   endpoints: #暴露bus刷新配置的端点
     web:
