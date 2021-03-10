@@ -1,3 +1,7 @@
+GET http://localhost:8801/sendMessage
+
+###
+
 GET http://localhost:3355/configInfo
 
 <> 2021-02-25T224928.200.txt

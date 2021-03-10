@@ -5,43 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49f0c8d2-31a5-489b-9773-40420729182d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_http_client_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jodah_typetools_0_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_2_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_2_2_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_2_3_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_bus_2_2_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_function_context_3_0_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_function_core_3_0_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_bus_amqp_2_2_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_stream_rabbit_3_0_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_3_0_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_binder_rabbit_3_0_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_binder_rabbit_core_3_0_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_amqp_5_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_core_5_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_jmx_5_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-configclient3355/src/test/java/com/tang/config/tt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-configclient3366/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-configclient3366/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-configclient3366/src/main/java/com/tang/config/SpringCloudConfigclient3366Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-configclient3366/src/main/java/com/tang/config/controller/ConfigClientController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-configclient3366/src/main/resources/config/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-configclient3366/src/main/resources/config/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-configclient3366/src/test/java/com/tang/config/SpringCloudConfigclient3366ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-rabbitmq-consumer8803/src/main/java/com/tang/streamc2/controller/ReciverMessageListenerController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-configcenter/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-configcenter/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-configcenter/src/main/resources/config/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-configcenter/src/main/resources/config/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-configclient3355/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-configclient3355/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-configclient3355/src/main/java/com/tang/config/SpringCloudConfigclient3355Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-configclient3355/src/main/java/com/tang/config/SpringCloudConfigclient3355Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-configclient3355/src/main/resources/config/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-configclient3355/src/main/resources/config/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-rabbitmq-consumer8803/src/main/resources/config/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-rabbitmq-consumer8803/src/main/resources/config/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-stream-rabbitmq-consumer8802/src/main/resources/config/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-stream-rabbitmq-consumer8802/src/main/resources/config/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +58,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="E:\apache-maven-3.6.3" />
+        <option name="mavenHome" value="E:/apache-maven-3.6.3" />
         <option name="userSettingsFile" value="E:\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -210,11 +182,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-cloud-configclient3366/src/main/resources/config" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-cloud-stream-rabbitmq-provider8801/src/main/resources/config" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.40391254" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="settings.editor.splitter.proportion" value="0.19394879" />
   </component>
   <component name="ReactorSettings">
@@ -222,11 +194,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Springboot\springcloud\spring-cloud-demo\spring-cloud-stream-rabbitmq-provider8801\src\main\resources\config" />
+      <recent name="F:\Springboot\springcloud\spring-cloud-demo\spring-cloud-stream-rabbitmq-consumer8802\src\main\resources\config" />
       <recent name="F:\Springboot\springcloud\spring-cloud-demo\spring-cloud-configclient3366\src\main\resources\config" />
       <recent name="F:\Springboot\spring-cloud-demo\spring-cloud-payment8004\src\main\resources" />
       <recent name="F:\Springboot\spring-cloud-demo\spring-cloud-payment8004\src\main\java\com\tang\payment8004" />
-      <recent name="F:\Springboot\spring-cloud-demo\spring-cloud-payment8002\src\main\resources" />
-      <recent name="F:\Springboot\spring-cloud-demo\spring-cloud-payment8002\src\main\java\com\tang\payment" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Springboot\spring-cloud-demo\spring-cloud-payment\src\main\resources\config" />
@@ -236,16 +208,23 @@
       <recent name="com.tang.order" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tang.streamc2.controller" />
       <recent name="com.tang.config.controller" />
       <recent name="com.tang.order9000.config" />
       <recent name="com.tang.payment8004.dao" />
       <recent name="com.tang.payment8004.controller" />
-      <recent name="com.tang.payment.daos" />
     </key>
   </component>
   <component name="RestClientSettings">
     <option name="REQUEST_HISTORY">
       <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8801/sendMessage" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
         <RestClientRequest>
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:3355/configInfo" />
@@ -270,7 +249,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.tt">
+  <component name="RunManager" selected="HTTP Request.generated-requests#3">
     <configuration name="SpringClioudOrderHystrixApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tang.orderH.SpringClioudOrderHystrixApplication" />
       <module name="spring-clioud-orderhystrix" />
@@ -310,18 +289,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="generated-requests#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" runType="Run single request">
+    <configuration name="generated-requests#3" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="3" runType="Run single request">
       <method v="2" />
     </configuration>
     <configuration name="SpringCloudConfigclient3366ApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -445,11 +413,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringCloudRabbitmqConsumer8803Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-rabbitmq-consumer8803" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tang.streamc2.SpringCloudRabbitmqConsumer8803Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudStreamRabbitmqConsumer8802Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-stream-rabbitmq-consumer8802" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tang.streamc1.SpringCloudStreamRabbitmqConsumer8802Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudStreamRabbitmqProvider8801Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-stream-rabbitmq-provider8801" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tang.stream.SpringCloudStreamRabbitmqProvider8801Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="HTTP Request.generated-requests#3" />
         <item itemvalue="Application.tt" />
         <item itemvalue="JUnit.SpringCloudConfigclient3366ApplicationTests.contextLoads" />
-        <item itemvalue="HTTP Request.generated-requests#1" />
         <item itemvalue="Application.SpringClioudOrderHystrixApplication" />
         <item itemvalue="Application.SpringCloudConsumerFeignHystrixApplication" />
       </list>
@@ -475,7 +464,11 @@
       <workItem from="1614220361743" duration="67000" />
       <workItem from="1614261524458" duration="5994000" />
       <workItem from="1614600338985" duration="4580000" />
-      <workItem from="1614669111665" duration="13605000" />
+      <workItem from="1614669111665" duration="15288000" />
+      <workItem from="1614863057584" duration="643000" />
+      <workItem from="1614913568398" duration="169000" />
+      <workItem from="1615291959010" duration="4316000" />
+      <workItem from="1615343476689" duration="2493000" />
     </task>
     <servers />
   </component>

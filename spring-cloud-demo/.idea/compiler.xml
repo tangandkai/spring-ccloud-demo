@@ -12,10 +12,13 @@
         <module name="spring-cloud-gateway9527" />
         <module name="spring-cloud-configclient3355" />
         <module name="spring-cloud-configclient3366" />
+        <module name="spring-cloud-rabbitmq-consumer8803" />
         <module name="spring-cloud-consumer-feign-hystrix" />
         <module name="spring-cloud-eureka" />
+        <module name="spring-cloud-stream-rabbitmq-consumer8802" />
         <module name="spring-cloud-order" />
         <module name="spring-cloud-order9000" />
+        <module name="spring-cloud-stream-rabbitmq-provider8801" />
         <module name="spring-cloud-interfaces" />
         <module name="spring-cloud-payment" />
         <module name="spring-cloud-payment8002" />
@@ -40,6 +43,9 @@
       <module name="spring-cloud-payment" target="1.8" />
       <module name="spring-cloud-payment8002" target="1.8" />
       <module name="spring-cloud-payment8004" target="1.8" />
+      <module name="spring-cloud-rabbitmq-consumer8803" target="1.8" />
+      <module name="spring-cloud-stream-rabbitmq-consumer8802" target="1.8" />
+      <module name="spring-cloud-stream-rabbitmq-provider8801" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -59,6 +65,9 @@
       <module name="spring-cloud-payment" options="-parameters" />
       <module name="spring-cloud-payment8002" options="-parameters" />
       <module name="spring-cloud-payment8004" options="-parameters" />
+      <module name="spring-cloud-rabbitmq-consumer8803" options="-parameters" />
+      <module name="spring-cloud-stream-rabbitmq-consumer8802" options="-parameters" />
+      <module name="spring-cloud-stream-rabbitmq-provider8801" options="-parameters" />
     </option>
   </component>
 </project>

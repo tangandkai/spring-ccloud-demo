@@ -17,6 +17,9 @@
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-payment/spring-cloud-payment.iml" filepath="$PROJECT_DIR$/spring-cloud-payment/spring-cloud-payment.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-payment8002/spring-cloud-payment8002.iml" filepath="$PROJECT_DIR$/spring-cloud-payment8002/spring-cloud-payment8002.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-payment8004/spring-cloud-payment8004.iml" filepath="$PROJECT_DIR$/spring-cloud-payment8004/spring-cloud-payment8004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-rabbitmq-consumer8803/spring-cloud-rabbitmq-consumer8803.iml" filepath="$PROJECT_DIR$/spring-cloud-rabbitmq-consumer8803/spring-cloud-rabbitmq-consumer8803.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-stream-rabbitmq-consumer8802/spring-cloud-stream-rabbitmq-consumer8802.iml" filepath="$PROJECT_DIR$/spring-cloud-stream-rabbitmq-consumer8802/spring-cloud-stream-rabbitmq-consumer8802.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-stream-rabbitmq-provider8801/spring-cloud-stream-rabbitmq-provider8801.iml" filepath="$PROJECT_DIR$/spring-cloud-stream-rabbitmq-provider8801/spring-cloud-stream-rabbitmq-provider8801.iml" />
     </modules>
   </component>
 </project>

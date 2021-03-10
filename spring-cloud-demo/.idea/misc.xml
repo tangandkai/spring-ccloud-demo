@@ -19,6 +19,9 @@
         <option value="$PROJECT_DIR$/spring-cloud-configcenter/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-configclient3355/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-configclient3366/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-stream-rabbitmq-provider8801/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-stream-rabbitmq-consumer8802/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-rabbitmq-consumer8803/pom.xml" />
       </list>
     </option>
   </component>
