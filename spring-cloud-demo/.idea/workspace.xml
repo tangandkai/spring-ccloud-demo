@@ -5,15 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49f0c8d2-31a5-489b-9773-40420729182d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spring-cloud-rabbitmq-consumer8803/src/main/java/com/tang/streamc2/controller/ReciverMessageListenerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-ailibaba/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-ailibaba/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-ailibaba/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-ailibaba/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-ailibaba/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-ailibaba/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-ailibaba/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-ailibaba/spring-cloud-ailibaba-order83/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-ailibaba/spring-cloud-ailibaba-order83/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-ailibaba/spring-cloud-ailibaba-order83/src/main/java/com/tang/cloud/order/SpringCloudAilibabaOrder83Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-ailibaba/spring-cloud-ailibaba-order83/src/main/java/com/tang/cloud/order/config/MyConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-ailibaba/spring-cloud-ailibaba-order83/src/main/java/com/tang/cloud/order/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-ailibaba/spring-cloud-ailibaba-order83/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-ailibaba/spring-cloud-ailibaba-order83/src/main/resources/config/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-ailibaba/spring-cloud-ailibaba-order83/src/test/java/com/tang/cloud/order/SpringCloudAilibabaOrder83ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-ailibaba/spring-cloud-ailibaba-payment9001/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-ailibaba/spring-cloud-ailibaba-payment9001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-ailibaba/spring-cloud-ailibaba-payment9001/src/main/java/com/tang/cloud/payment/SpringCloudAilibabaPayment9001Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-ailibaba/spring-cloud-ailibaba-payment9001/src/main/java/com/tang/cloud/payment/controller/PaymentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-ailibaba/spring-cloud-ailibaba-payment9001/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-ailibaba/spring-cloud-ailibaba-payment9001/src/main/resources/config/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-ailibaba/spring-cloud-ailibaba-payment9001/src/test/java/com/tang/cloud/payment/SpringCloudAilibabaPayment9001ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-ailibaba/spring-cloud-ailibaba-payment9002/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-ailibaba/spring-cloud-ailibaba-payment9002/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-ailibaba/spring-cloud-ailibaba-payment9002/src/main/java/com/tang/cloud/payment/SpringCloudAilibabaPayment9002Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-ailibaba/spring-cloud-ailibaba-payment9002/src/main/java/com/tang/cloud/payment/controller/PaymentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-ailibaba/spring-cloud-ailibaba-payment9002/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-ailibaba/spring-cloud-ailibaba-payment9002/src/main/resources/config/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-ailibaba/spring-cloud-ailibaba-payment9002/src/test/java/com/tang/cloud/payment/SpringCloudAilibabaPayment9002ApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-rabbitmq-consumer8803/src/main/resources/config/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-rabbitmq-consumer8803/src/main/resources/config/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-stream-rabbitmq-consumer8802/src/main/resources/config/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-stream-rabbitmq-consumer8802/src/main/resources/config/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +79,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="E:/apache-maven-3.6.3" />
+        <option name="mavenHome" value="E:\apache-maven-3.6.3" />
         <option name="userSettingsFile" value="E:\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -468,7 +489,11 @@
       <workItem from="1614863057584" duration="643000" />
       <workItem from="1614913568398" duration="169000" />
       <workItem from="1615291959010" duration="4316000" />
-      <workItem from="1615343476689" duration="2493000" />
+      <workItem from="1615343476689" duration="4044000" />
+      <workItem from="1615459176055" duration="2687000" />
+      <workItem from="1615465638587" duration="2236000" />
+      <workItem from="1615517238836" duration="3263000" />
+      <workItem from="1615532957442" duration="20000" />
     </task>
     <servers />
   </component>
