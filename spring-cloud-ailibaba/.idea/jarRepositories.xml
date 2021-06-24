@@ -2,9 +2,44 @@
 <project version="4">
   <component name="RemoteRepositoriesConfiguration">
     <remote-repository>
+      <option name="id" value="maven-jd-release" />
+      <option name="name" value="Maven JD Release" />
+      <option name="url" value="http://artifactory.jd.com/libs-releases-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="libs-releases" />
+      <option name="url" value="http://artifactory.jd.com/libs-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-jd-snapshot" />
+      <option name="name" value="Maven JD SNAPSHOT" />
+      <option name="url" value="http://artifactory.jd.com/libs-snapshots-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="libs-snapshots" />
+      <option name="url" value="http://artifactory.jd.com/libs-snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central-apache" />
+      <option name="name" value="libs-releases" />
+      <option name="url" value="http://repo1.maven.org/" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="central" />
       <option name="name" value="Maven Central repository" />
       <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jd-snapshots" />
+      <option name="name" value="libs-snapshots" />
+      <option name="url" value="http://artifactory.jd.com/libs-snapshots-local" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="jboss.community" />

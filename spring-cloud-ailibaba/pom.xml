@@ -25,6 +25,11 @@
     <module>spring-cloud-ailibaba-order83</module>
     <module>spring-cloud-ailibaba-configclient3377</module>
     <module>spring-cloud-ailibaba-sentinel8401</module>
+    <module>spring-cloud-ailibaba-payment9004</module>
+    <module>spring-cloud-ailibaba-payment9005</module>
+    <module>spring-cloud-ailibaba-order84</module>
+    <module>spring-cloud-common</module>
+    <module>spring-web-reactor8081</module>
   </modules>
 
   <properties>

@@ -3,8 +3,15 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/spring-cloud-ailibaba-configclient3377/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-ailibaba-order83/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-ailibaba-order84/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-ailibaba-order84/src/main/resources/application.yml" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-ailibaba-payment9001/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-ailibaba-payment9002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-ailibaba-payment9004/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-ailibaba-payment9005/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-ailibaba-sentinel8401/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-web-reactor8081/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

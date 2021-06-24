@@ -10,6 +10,11 @@
         <option value="$PROJECT_DIR$/spring-cloud-ailibaba-order83/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-ailibaba-configclient3377/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-ailibaba-sentinel8401/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-ailibaba-payment9004/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-ailibaba-payment9005/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-ailibaba-order84/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-common/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-web-reactor8081/pom.xml" />
       </list>
     </option>
   </component>

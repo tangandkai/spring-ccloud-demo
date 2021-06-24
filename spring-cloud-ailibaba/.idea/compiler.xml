@@ -8,10 +8,15 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-cloud-ailibaba-order83" />
+        <module name="spring-cloud-ailibaba-payment9005" />
+        <module name="spring-web-reactor8081" />
+        <module name="spring-cloud-ailibaba-sentinel8401" />
+        <module name="spring-cloud-common" />
         <module name="spring-cloud-ailibaba-configclient3377" />
         <module name="spring-cloud-ailibaba-payment9002" />
         <module name="spring-cloud-ailibaba-payment9001" />
-        <module name="spring-cloud-ailibaba-sentinel8401" />
+        <module name="spring-cloud-ailibaba-payment9004" />
+        <module name="spring-cloud-ailibaba-order84" />
       </profile>
     </annotationProcessing>
   </component>
@@ -19,9 +24,14 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="spring-cloud-ailibaba-configclient3377" options="-parameters" />
       <module name="spring-cloud-ailibaba-order83" options="-parameters" />
+      <module name="spring-cloud-ailibaba-order84" options="-parameters" />
       <module name="spring-cloud-ailibaba-payment9001" options="-parameters" />
       <module name="spring-cloud-ailibaba-payment9002" options="-parameters" />
+      <module name="spring-cloud-ailibaba-payment9004" options="-parameters" />
+      <module name="spring-cloud-ailibaba-payment9005" options="-parameters" />
       <module name="spring-cloud-ailibaba-sentinel8401" options="-parameters" />
+      <module name="spring-cloud-common" options="-parameters" />
+      <module name="spring-web-reactor8081" options="-parameters" />
     </option>
   </component>
 </project>
